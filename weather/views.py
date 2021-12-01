@@ -15,7 +15,7 @@ def index(request):
 
         headers = {
             'x-rapidapi-host': "community-open-weather-map.p.rapidapi.com",
-            'x-rapidapi-key': "13e472f4a2mshe3cee72a982d818p17ec79jsnc5c3df0572cd"
+            'x-rapidapi-key': ""
         }
 
         response = requests.request(
